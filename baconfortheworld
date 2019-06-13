@@ -1,0 +1,2 @@
+def baconfortheworld(): 
+	print(hello_multiverse)
