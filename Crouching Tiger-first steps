@@ -3,7 +3,11 @@ Crouching Tiger
 Learned some new stuff today
 
 Vocabulary
-- to commit 
-- to push
-- a pull request
-- to stage
+- to branch - > create a new branch of the project to work on new stuff
+- to stage -> to prepare your files for committing
+- to commit -> indicate that you are working on something new 
+- to push -> push the file(s) of that new thing to the online project
+- a pull request -> ask to join your work to the master project
+- to fetch -> to fetch all ongoing activity on the master and other branches 
+- to pull-> pull online content to your computer
+- to merge -> to merge (part of) master or another branch at a specific moment with your code
